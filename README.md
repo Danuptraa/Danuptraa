@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danuptraa
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScrt
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning CI/CD
 
 
 <!---
